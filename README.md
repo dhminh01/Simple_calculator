@@ -5,4 +5,4 @@ Simple calculator app using JavaFX and Maven...
 [Mowf](https://github.com/dhminh01)
 
 ## Screenshot
-<img src="E:\ideaProjects\simplecalculator\src\main\resources\calculator\calculator\image\Screenshot.png" alt="Example Image" width="200"/>
+<img src="https://drive.google.com/file/d/1KNKirKcmn-IhxwfEaKocRPcILjmCWUJf/view?usp=drive_link" alt="Example Image" width="200"/>
